@@ -18,7 +18,7 @@ library(readr)
 
 ## Load data
 ```{r}
-source('H:/2014-working-files/parse-widows/combine.r')
+source('NACJD/combine.r')
 ```
 
 ## Clean data
