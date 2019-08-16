@@ -20,3 +20,9 @@ The columns `valid2006`, `valid2013`, `valid2014` describe whether a county had 
 We obtained data for four states – Idaho, Kansas, New Mexico and Ohio (2006 only) – directly from state departments of corrections or sentencing commissions. The source of each row of data is noted in the `source` field.
 
 The `NACJD` folder has the code used to count the number of admissions per county, but The Department of Justice limits access to the full NCRP dataset to those with an approved research exemption. 
+
+## Steve's Notes
+
+It looks like split, compute, and merge here is a way to group by year and county.
+
+![workflow](workflow.jpg)
